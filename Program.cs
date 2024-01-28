@@ -1,6 +1,6 @@
 namespace ProGitProgrammers
 {
-        class Program 
+        class Program
         {
             static void Main([string[] args)
             {
@@ -9,5 +9,10 @@ namespace ProGitProgrammers
                 Console.WriteLine("I just added this in the command line repo");
                 Console.WriteLine("This line added to show the staged area");
             }
+        }
+
+        class Calgulator
+        {
+
         }
 }
