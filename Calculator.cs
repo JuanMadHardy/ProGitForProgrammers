@@ -2,7 +2,7 @@ namespace ProGitProgrammers
 {
     public class Calculator
     {
-
+        //
     }
 
     public int Add (int left, int right)
@@ -13,5 +13,10 @@ namespace ProGitProgrammers
     public int Substract (int left, int right)
     {
         return left - right;
+    }
+
+    public int Multiply (int left, int right)
+    {
+        return left * right;
     }
 }
