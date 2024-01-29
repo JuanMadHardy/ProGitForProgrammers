@@ -10,9 +10,4 @@ namespace ProGitProgrammers
                 Console.WriteLine("This line added to show the staged area");
             }
         }
-
-        class Calgulator
-        {
-
-        }
 }
